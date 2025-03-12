@@ -32,8 +32,7 @@ This is a **simple form validation mini-project** built using  **HTML, CSS, and 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/form-validation.git
-   cd form-validation
+   git clone https://github.com/AzaanSuhail/Form-Validation.git
    ```
 2. **Open `index.html` in a browser**
 3. **Test the form validation!**
